@@ -1,2 +1,0 @@
-second file created. 
-New line included in the demo2.txt
