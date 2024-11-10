@@ -1,2 +1,3 @@
 This is a new file created directly using github.
 I have updated a new line in the develop branch.
+I have updated this new piece of code for resolving issue with latency. 
